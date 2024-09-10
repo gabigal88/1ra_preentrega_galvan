@@ -10,5 +10,8 @@ Se trata de la primera preentrega del curso SQL Comision 59415 de la academia Co
 **Digrama Entidad-Relacion:**
   Se adjunta en formato .png
 
-Listado de tablas que componen la base de datos:
-  Se adjunta archivo 
+**Listado de tablas que componen la base de datos:**
+  Se adjunta archivo "Listado_de_tablas.xlsx"
+
+**Script:**
+  Se adjunta script.sql
